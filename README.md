@@ -10,4 +10,4 @@ Built using a Pipeline for seamless data transformation and classification
 
 Includes serialization with joblib
 
-Easy-to-use web interface for predictions
+Easy-to-use web interface for prediction
